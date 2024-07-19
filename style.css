@@ -1,0 +1,20 @@
+body {color:white;
+background-image:url(https://cdn.pixabay.com/photo/2020/03/30/13/29/space-4984262_640.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+margin:0;
+text-align:center;
+}
+h1, h2 {text-align:center;
+font-family:comic sans ms;}
+h2 {font-size:35px;}
+.parents {text-align:left;
+color:yellowgreen;}
+.footer {text-align:left;}
+.tablecolor {color:greenyellow;}
+body {font-size:20px;}
+.IMG {width: 550px;height:350px;
+padding:15px;
+margin:15px;}
+main{margin: 15px;}
+footer{padding: 15px;}
